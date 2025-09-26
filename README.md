@@ -1,8 +1,8 @@
 # ⚖️ LegalPrepTool  
 
-**LegalPrepTool** is an AI-powered assistant that helps lawyers and legal professionals **analyze court documents** and **prepare case arguments** efficiently.  
+**LegalPrepTool** is an AI powered assistant that helps lawyers and legal professionals **analyze court documents** and **prepare case arguments** efficiently.  
 
-Upload a PDF brief, extract key sentences, classify them as **For** or **Against**, generate concise summaries, and even share them via email—all in one streamlined workflow.  
+Upload a PDF brief, extract key sentences, classify them as **For** or **Against**, generate concise summaries, and even share them via email all in one streamlined workflow.  
 
 ---
 
