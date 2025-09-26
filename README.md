@@ -19,16 +19,16 @@ Upload a PDF brief, extract key sentences, classify them as **For** or **Against
 Here’s a walkthrough of the tool in action:  
 
 
-![Screenshot 1](homepage.png)  
+![Screenshot 1](https://github.com/Shaun-Roy/LegalPrepTool/blob/main/screenshots/homepage.png)  
 
 
-![Screenshot 2](pic2.png)  
+![Screenshot 2](https://github.com/Shaun-Roy/LegalPrepTool/blob/main/screenshots/pic2.png)  
 
 
-![Screenshot 3](pic3.png)  
+![Screenshot 3](https://github.com/Shaun-Roy/LegalPrepTool/blob/main/screenshots/pic3.png)  
 
  
-![Screenshot 4](pic4.png)  
+![Screenshot 4](https://github.com/Shaun-Roy/LegalPrepTool/blob/main/screenshots/pic4.png)  
 
 ---
 
